@@ -7,10 +7,8 @@
 
 <div align="center">
     <h2 style="color:#32CD32;">📸 Screenshots</h2>
-    <img src="![1](https://github.com/user-attachments/assets/c2d8f529-a0a1-471b-ba8c-3a1231f5ca7a)
- " alt="Sugar Elite Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
-    <img src="![2](https://github.com/user-attachments/assets/5a698d8f-9d93-4e8b-9959-a9fd27b6c8e7)
- " alt="Sugar Elite Screenshot 2" width="80%" style="border:2px solid #4682B4;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
+    <img src="https://github.com/user-attachments/assets/c2d8f529-a0a1-471b-ba8c-3a1231f5ca7a" alt="Sugar Elite Screenshot 1" width="80%" style="border:2px solid #FF4500;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
+    <img src="https://github.com/user-attachments/assets/5a698d8f-9d93-4e8b-9959-a9fd27b6c8e7" alt="Sugar Elite Screenshot 2" width="80%" style="border:2px solid #4682B4;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
 </div>
 
 ---
@@ -47,7 +45,7 @@
 <div align="center">
     <h2 style="color:#32CD32;">💡 FEATURES</h2>
 </div>
-![3](https://github.com/user-attachments/assets/028b65a0-d024-4c1e-8d42-947cfed1ffd9)
+<img src="https://github.com/user-attachments/assets/6ba76cc1-44bf-49f9-bab2-82000c91af70" alt="Sugar Elite Screenshot 2" width="80%" style="border:2px solid #4682B4;border-radius:10px;box-shadow:5px 5px 15px rgba(0,0,0,0.5);margin-bottom:20px;">
 
 
 ---
